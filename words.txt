@@ -1,0 +1,12 @@
+Compose a small text file, 
+in which various 
+words are located sequentially, 
+separated by spaces and line breaks. 
+
+You can use any English words. 
+Develop a program that would search among these words for what the user needs 
+and display the total number of repetitions of this word. 
+0 - if the word is not present in the file at all.
+
+word word word
+word word word 
